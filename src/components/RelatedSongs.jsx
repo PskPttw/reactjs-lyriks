@@ -1,5 +1,11 @@
-const RelatedSongs = () => (
-  <div>Loader</div>
-);
+import React from "react"
+import { Songbar } from "./SongBar"
 
-export default RelatedSongs;
+const RelatedSongs = () => 
+{
+  return (
+    <div>RelatedSongs</div>
+  )
+}
+
+export default RelatedSongs
